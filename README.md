@@ -2,11 +2,6 @@
 
 - 🚀 Kinde Auth: https://dub.sh/xeU8r3v
 
-
-- 👨🏻‍💻 GitHub Repository: https://www.janmarshal.com/courses/build-a-next-js-14-blog-or-react-sanity-io-tailwind-css-shadcn-ui
-- 🌍 My Website: https://www.janmarshal.com
-- 📧 Business ONLY: jan@alenix.de 
-
 Resources used:
 - Next.js: https://nextjs.org
 - Kinde: https://dub.sh/xeU8r3v
